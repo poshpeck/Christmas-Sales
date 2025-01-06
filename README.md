@@ -8,6 +8,8 @@ This Power BI dashboard provides detailed insights into Christmas sales performa
 <p align="center">
 Report Snapshot  <br/>
 <img src="https://imgur.com/h6ncK9x.png" height="80%" width="80%"/>
+<img src="https://imgur.com/MQMwzFK.png" height="80%" width="80%"/>
+<img src="https://imgur.com/Cjh2kl0.png" height="80%" width="80%"/>
 <br />
 <br />
 
