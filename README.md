@@ -2,6 +2,8 @@
 
 ### [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTNmZjBmYjUtZjhjNC00MzkyLWIyNWUtYzY5ZmI1MGUyYzU3IiwidCI6IjQ2ZWUyN2EzLTRlYjMtNDVhMy04MWIzLTRkYzk4NjNiNGEzZiJ9)
 
+### [Data Model](https://imgur.com/F8IuEg9.png)
+
 <h2>Description</h2>
 This Power BI dashboard provides detailed insights into Christmas sales performance, focusing on key metrics such as total sales, profit, quantity sold, and orders. It visualizes year-over-year growth and helps identify trends in customer segments, payment methods, product performance, and regional sales.
 
