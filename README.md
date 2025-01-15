@@ -2,19 +2,24 @@
 
 ### [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTNmZjBmYjUtZjhjNC00MzkyLWIyNWUtYzY5ZmI1MGUyYzU3IiwidCI6IjQ2ZWUyN2EzLTRlYjMtNDVhMy04MWIzLTRkYzk4NjNiNGEzZiJ9)
 
-### [Data Model](https://imgur.com/F8IuEg9.png)
+
 
 <h2>Description</h2>
 This Power BI dashboard provides detailed insights into Christmas sales performance, focusing on key metrics such as total sales, profit, quantity sold, and orders. It visualizes year-over-year growth and helps identify trends in customer segments, payment methods, product performance, and regional sales.
 
 <p align="center">
-Report Snapshot  <br/>
+<strong>Report Snapshot</strong>  <br/>
 <img src="https://imgur.com/h6ncK9x.png" height="80%" width="80%"/>
 <img src="https://imgur.com/MQMwzFK.png" height="80%" width="80%"/>
 <img src="https://imgur.com/Cjh2kl0.png" height="80%" width="80%"/>
 <br />
 <br />
 
+<p align="center">
+<strong>Data Model</strong>  <br/>
+<img src="https://imgur.com/F8IuEg9.png" height="50%" width="50%"/>
+<br />
+   
 ## Project Purpose
 The purpose of this project is to:
 - Analyze the performance of Christmas season sales.
